@@ -35,7 +35,7 @@
     "axios": "^0.21.1",
     "inuitcss": "^6.0.0",
     "inuitcss-hex": "^1.0.7",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "sass-loader": "^8.0.0",
     "vuejs-logger": "^1.5.4",
